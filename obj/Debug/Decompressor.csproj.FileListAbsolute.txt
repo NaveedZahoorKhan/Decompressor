@@ -1,0 +1,5 @@
+C:\Users\Genesis\Documents\Visual Studio 2015\Projects\Decompressor\bin\Debug\Decompressor.exe.config
+C:\Users\Genesis\Documents\Visual Studio 2015\Projects\Decompressor\bin\Debug\Decompressor.exe
+C:\Users\Genesis\Documents\Visual Studio 2015\Projects\Decompressor\bin\Debug\Decompressor.pdb
+C:\Users\Genesis\Documents\Visual Studio 2015\Projects\Decompressor\obj\Debug\Decompressor.exe
+C:\Users\Genesis\Documents\Visual Studio 2015\Projects\Decompressor\obj\Debug\Decompressor.pdb
